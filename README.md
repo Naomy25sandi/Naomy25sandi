@@ -18,5 +18,5 @@ I enjoy solving problems, creating websites and learning new tools.
 - Power Platform (SharePoint, Power Apps and Power Automate)
 
 ## Contact me
-- Email: naomysandiq@gmail.com  
+- Email: naomysandi25@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/naomy-sandí-quirós-25413032a](https://www.linkedin.com/in/naomy-sandí-quirós-25413032a)
