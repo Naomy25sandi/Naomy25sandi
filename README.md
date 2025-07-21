@@ -8,8 +8,8 @@ I enjoy solving problems, creating websites and learning new tools.
 
 ## Technologies I use
 - HTML, CSS, JavaScript
-- React (in progress)
-- Python and Django (in progress)
+- React 
+- Python and Django
 - Git and GitHub
 - MySQL (basic)
 
